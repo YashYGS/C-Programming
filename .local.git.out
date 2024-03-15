@@ -1,0 +1,1051 @@
+[master 7005999] 6 of 36
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 11 files changed, 164 insertions(+)
+ create mode 100644 .local.git.out
+ create mode 100644 .local.total.out
+ create mode 100644 diff.out
+ create mode 100644 mytable.ll
+ create mode 100755 ptr-simple
+ create mode 100755 simple_list
+ create mode 100755 test_linked_list
+ create mode 100644 test_linked_list.org.out
+ create mode 100644 test_linked_list.out
+ create mode 100644 total.out
+ create mode 100644 total.txt
+[master ce7d51c] 6 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 42 insertions(+), 1 deletion(-)
+ create mode 100644 .LinkedList.c.swp
+ create mode 100644 .LinkedList.h.swp
+ rewrite ptr-simple (86%)
+ rewrite simple_list (86%)
+ create mode 100644 table1.ll
+ rewrite test_linked_list (81%)
+[master 0f44836] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 38 insertions(+), 2 deletions(-)
+ delete mode 100644 .LinkedList.c.swp
+ create mode 100755 .nfs0000000006a80173000096c1
+[master 4a575df] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 34 insertions(+), 1 deletion(-)
+[master e2f95fe] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 19 insertions(+), 2 deletions(-)
+[master f8c4145] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 21 insertions(+), 2 deletions(-)
+[master 6134a90] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 24 insertions(+), 4 deletions(-)
+[master ad0402e] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 28 insertions(+), 1 deletion(-)
+ rewrite test_linked_list (62%)
+[master 8b221d5] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 19 insertions(+), 7 deletions(-)
+ copy test_linked_list => .nfs0000000006a801760000970a (79%)
+ create mode 100644 .nfs0000000006a801970000970b
+ rewrite test_linked_list (62%)
+[master 019ef85] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 27 insertions(+), 3 deletions(-)
+ rewrite test_linked_list (62%)
+[master 7c498b6] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 13 files changed, 62 insertions(+), 8 deletions(-)
+ delete mode 100644 .LinkedList.h.swp
+ create mode 100755 .nfs0000000006a8019000009714
+ create mode 100755 .nfs0000000006a8019100009715
+ create mode 100755 .nfs0000000006a8019400009718
+ create mode 100755 .nfs0000000006a801980000971b
+ create mode 100644 .nfs0000000006a8019900009716
+ create mode 100644 .nfs0000000006a81bd100009719
+ create mode 100644 .nfs0000000006a81c3a0000971c
+[master 7a46b9a] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@moore22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 18 files changed, 38 insertions(+), 46 deletions(-)
+ delete mode 100755 .nfs0000000006a801760000970a
+ rename test_linked_list => .nfs0000000006a8018d0000001c (67%)
+ delete mode 100755 .nfs0000000006a8019000009714
+ delete mode 100755 .nfs0000000006a8019100009715
+ delete mode 100755 .nfs0000000006a8019400009718
+ delete mode 100755 .nfs0000000006a801980000971b
+ delete mode 100644 .nfs0000000006a8019900009716
+ delete mode 100644 .nfs0000000006a81bd100009719
+ rename .nfs0000000006a801970000970b => .nfs0000000006a81c390000001d (100%)
+ delete mode 100644 .nfs0000000006a81c3a0000971c
+ create mode 100755 .nfs0000000006a81c3b0000001b
+ rename .nfs0000000006a80173000096c1 => test_linked_list (60%)
+[master 78f88f8] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@moore22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 31 insertions(+), 4 deletions(-)
+[master f5a531f] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@moore22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 19 insertions(+), 2 deletions(-)
+[master d38bb37] 9 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 12 files changed, 30 insertions(+), 10 deletions(-)
+ create mode 100644 .LinkedList.c.swo
+ create mode 100644 .LinkedList.c.swp
+ create mode 100644 .LinkedList.h.swp
+ delete mode 100644 .nfs0000000006a81c390000001d
+ delete mode 100755 .nfs0000000006a81c3b0000001b
+ rename .nfs0000000006a8018d0000001c => test_linked_list (60%)
+[master 19a8315] 12 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 40 insertions(+), 4 deletions(-)
+[master e92ddb6] 12 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 42 insertions(+), 21 deletions(-)
+[master 8e9d685] 12 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 19 insertions(+), 2 deletions(-)
+[master d4faade] 15 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 20 insertions(+), 3 deletions(-)
+[master 23913a7] 18 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 55 insertions(+), 3 deletions(-)
+[master e76e159] 21 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 30 insertions(+), 3 deletions(-)
+ create mode 100755 .nfs0000000006a8018e00009d65
+ create mode 100644 .nfs0000000006a81c3c00009d66
+[master a669799] 21 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 35 insertions(+), 1 deletion(-)
+ rewrite test_linked_list (60%)
+[master 6d26cff] 21 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 21 insertions(+), 2 deletions(-)
+ create mode 100644 .LinkedList.c.swn
+ create mode 100644 .test_linked_list.c.swp
+[master 2ebed7b] 21 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+[master 51406dc] 21 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 21 insertions(+), 3 deletions(-)
+ delete mode 100644 .LinkedList.c.swn
+ rewrite test_linked_list (65%)
+[master 674a210] 21 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 20 insertions(+), 1 deletion(-)
+ create mode 100644 .LinkedList.c.swn
+[master 133c9e4] 24 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 24 insertions(+), 5 deletions(-)
+ delete mode 100644 .LinkedList.c.swn
+ rewrite test_linked_list (60%)
+[master f464e05] 24 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 29 insertions(+), 3 deletions(-)
+ create mode 100644 .LinkedList.h.swo
+[master e11b9ea] 24 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 30 insertions(+), 2 deletions(-)
+ create mode 100644 .LinkedList.c.swn
+ create mode 100755 .nfs0000000006a8019600009dc1
+ create mode 100644 .nfs0000000006a80ff400009dc2
+ rewrite test_linked_list (61%)
+[master 5deb0cf] 24 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 25 insertions(+), 2 deletions(-)
+[master 2e3377a] 24 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 19 insertions(+), 2 deletions(-)
+[master f176dbe] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 24 insertions(+), 2 deletions(-)
+[master d884320] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 45 insertions(+), 1 deletion(-)
+[master 042801d] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 21 insertions(+), 3 deletions(-)
+[master d003ce2] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 12 files changed, 25 insertions(+), 3 deletions(-)
+ delete mode 100644 .LinkedList.c.swn
+ delete mode 100644 .LinkedList.h.swo
+ delete mode 100755 .nfs0000000006a8018e00009d65
+ delete mode 100755 .nfs0000000006a8019600009dc1
+ delete mode 100644 .nfs0000000006a80ff400009dc2
+ delete mode 100644 .nfs0000000006a81c3c00009d66
+ delete mode 100644 .test_linked_list.c.swp
+[master 1e3277c] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 25 insertions(+), 1 deletion(-)
+ create mode 100644 .LinkedList.c.swn
+[master 2ee03a1] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 20 insertions(+), 2 deletions(-)
+[master 05988a9] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+[master 507cdd4] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+[master 2f3ef65] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 18 insertions(+), 1 deletion(-)
+ delete mode 100644 .LinkedList.c.swn
+[master 845b6f3] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 19 insertions(+), 1 deletion(-)
+ create mode 100644 .LinkedList.c.swn
+ create mode 100755 .nfs0000000006a8018e00009f9a
+[master 9e5380e] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 21 insertions(+), 2 deletions(-)
+ delete mode 100644 .LinkedList.c.swn
+[master 0575f58] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 20 insertions(+), 2 deletions(-)
+[master dfce30a] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 19 insertions(+), 2 deletions(-)
+[master c734cb4] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 18 insertions(+), 1 deletion(-)
+ create mode 100644 .LinkedList.c.swn
+ rename .nfs0000000006a8018e00009f9a => .nfs0000000006a8019600009f9b (90%)
+[master 81aa4a8] 27 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 22 insertions(+), 2 deletions(-)
+ delete mode 100644 .LinkedList.c.swn
+[master d3d97b3] 30 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 46 insertions(+), 13 deletions(-)
+[master 965f29f] 30 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 37 insertions(+), 2 deletions(-)
+[master 16e7241] 30 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 28 insertions(+), 3 deletions(-)
+[master 0987a5c] 30 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 21 insertions(+), 3 deletions(-)
+ create mode 100644 .LinkedList.c.swn
+ delete mode 100755 .nfs0000000006a8019600009f9b
+[master 9a126bd] 30 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 24 insertions(+), 1 deletion(-)
+[master 0d764f9] 30 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 18 insertions(+), 1 deletion(-)
+ create mode 100644 .LinkedList.c.swm
+[master 2924af5] 30 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 20 insertions(+), 2 deletions(-)
+[master fb97e90] 33 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 21 insertions(+), 2 deletions(-)
+ delete mode 100644 .LinkedList.c.swm
+[master 6d5b00b] 33 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 29 insertions(+), 1 deletion(-)
+ create mode 100644 .LinkedList.c.swm
+ create mode 100644 .test_linked_list.c.swp
+[master efbcea3] 33 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+[master 65da012] 33 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 22 insertions(+), 9 deletions(-)
+[master 990e693] 36 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 33 insertions(+), 7 deletions(-)
+[master e0c0f1c] 36 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+[master cbdf080] 36 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 18 insertions(+), 1 deletion(-)
+ delete mode 100644 .test_linked_list.c.swp
+[master 5ba468c] 36 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 19 insertions(+), 1 deletion(-)
+ create mode 100644 .LinkedList.c.swl
+[master 47cc4c4] 36 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+[master 6dee5df] 36 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@moore24.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 22 insertions(+), 2 deletions(-)
+ create mode 100644 .LinkedList.c.swk
+ create mode 100755 .nfs0000000006a80fee00000fc0
+[master 14815f5] 36 of 36
+ Committer: Yashaswini Ganapathy Subramaniam <ysubrama@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 20 insertions(+), 1 deletion(-)
+ delete mode 100755 .nfs0000000006a80fee00000fc0
